@@ -1,0 +1,1 @@
+package com.sk.domain;import javax.persistence.Entity;import javax.persistence.Table;@Entity@Table(name = "category")public class Category extends BaseEntity{}
